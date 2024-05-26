@@ -1,7 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[6]:
 
 
 # 1) convert integer to a floating--point number.
